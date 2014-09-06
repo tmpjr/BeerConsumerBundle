@@ -1,0 +1,3 @@
+tmp_jr_beer_consumer_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: TmpJrBeerConsumerBundle:Default:index }
