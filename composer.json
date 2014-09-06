@@ -20,8 +20,6 @@
         }
     },
     "target-dir" : "TmpJr/BeerConsumerBundle",
-    "repositories" : [{
-    ],
     "extra" : {
     "branch-alias" : {
             "dev-master" : "2.2-dev"
