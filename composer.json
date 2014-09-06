@@ -1,0 +1,30 @@
+{
+    "name" : "tmpjr/beerconsumerbundle",
+    "description" : "A Symfony2 bundle that wraps the BreweryDb REST API",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Tom Ploskina Jr.",
+        "email" : "nortbot@gmail.com"
+    }],
+    "keywords" : [
+        "BreweryDb API REST Symfony2 Bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "TmpJr\\BeerConsumerBundle" : ""
+        }
+    },
+    "target-dir" : "TmpJr/BeerConsumerBundle",
+    "repositories" : [{
+    ],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "2.2-dev"
+        }
+    }
+}
